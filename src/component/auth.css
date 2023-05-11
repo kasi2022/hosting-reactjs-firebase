@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.signin{
+    width: 50%;
+    height: 30px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+}
+.bt{
+    width: 51%;
+    height: 30px;
+    background-color: #10a37f;
+    margin: 10px;
+    text-align: center;
+}
+.registration{
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
